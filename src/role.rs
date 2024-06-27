@@ -1,4 +1,4 @@
-// Roles
+// Roles action
 // Roles are the same as defining the system prompt.
 // Some models, especially the chat models, take a specific system prompt, and others you can just inject it as the first message.
 // Prompting the models with an example message can also be useful.
